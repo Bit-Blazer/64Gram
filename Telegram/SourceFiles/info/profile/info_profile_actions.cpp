@@ -197,7 +197,7 @@ base::options::toggle ShowPeerIdBelowAbout({
 		value.append(Italic(u"id: "_q));
 		const auto raw = peer->id.value & PeerId::kChatTypeMask;
 		value.append(Link(
-			Italic(Lang::FormatCountDecimal(raw)),
+			Italic(QString::number(raw)),
 			"internal:copy:" + QString::number(raw)));
 		return std::move(value);
 	});
