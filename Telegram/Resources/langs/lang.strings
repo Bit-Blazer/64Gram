@@ -5802,11 +5802,11 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_forward_to_saved_message_emoji" = "💾";
 "lng_selected_delete_emoji" = "🗑️";
 
-"lng_selected_forward_text_classic" = "F(Classic)";
-"lng_selected_forward_text" = "F";
-"lng_selected_forward_no_quote_text" = "C";
-"lng_forward_to_saved_message_text" = "S";
-"lng_selected_delete_text" = "D";
+"lng_selected_forward_text_classic" = "Forward";
+"lng_selected_forward_text" = "Direct Share";
+"lng_selected_forward_no_quote_text" = "Copy";
+"lng_forward_to_saved_message_text" = "Save";
+"lng_selected_delete_text" = "Delete";
 
 "lng_admin_log_banned_send_stickers2" = "Send stickers";
 "lng_admin_log_banned_send_gifs" = "Send GIFs";
